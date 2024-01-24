@@ -1,0 +1,2 @@
+141 is palindrome 
+mom is palindrome 

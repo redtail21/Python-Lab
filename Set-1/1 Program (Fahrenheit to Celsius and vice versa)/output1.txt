@@ -1,0 +1,2 @@
+99.0 celsius = 210.2 fahrenheit
+230 fahrenheit = 110.0 celsius

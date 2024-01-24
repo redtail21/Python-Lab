@@ -1,0 +1,2 @@
+101101010 Binary to Decimal is 362
+55 Decimal to Binary is 110111

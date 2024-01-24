@@ -1,0 +1,10 @@
+l=int(input("enter length : "))
+w=int(input("enter width : "))
+area=l*w
+perimeter=2*(l+w)
+print("area of rectangle is: ",area)
+print("perimeter of rectangle is: ",perimeter)
+fl=open("output2.txt",'a')
+fl.write(f"area of rectangle is: {str(area)}\n")
+fl.write(f"perimeter of rectangle is: {str(perimeter)}\n")
+fl.close()

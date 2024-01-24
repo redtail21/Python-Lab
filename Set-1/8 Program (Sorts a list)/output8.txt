@@ -1,0 +1,6 @@
+befor sort
+[1, 5, 4, 3, 8, 6, 9, 51, 66, 81, 7, 33]
+after ascending sort
+[1, 3, 4, 5, 6, 7, 8, 9, 33, 51, 66, 81]
+after reverse or descending sort
+[81, 66, 51, 33, 9, 8, 7, 6, 5, 4, 3, 1]
